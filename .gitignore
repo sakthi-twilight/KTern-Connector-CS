@@ -2,7 +2,6 @@
 .git/
 packages/
 KTern On Premise Connector/bin/
-KTern On Premise Connector/libs/
 KTern On Premise Connector/obj/
 KTern On Premise Connector/*.csproj
 KTern On Premise Connector/*.csproj.user
